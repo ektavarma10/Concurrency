@@ -16,4 +16,4 @@ This repository contains Java implementations of solutions to common concurrency
 ## Important Links
 For detailed description of problems go through this [link](https://www.educative.io/blog/top-five-concurrency-interview-questions-for-software-engineers).
 
-***Happy Coding!***gu
+***Happy Coding!***
